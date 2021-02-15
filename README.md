@@ -2,6 +2,9 @@
 
 # About me
 - I´m currently studying media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
+- I love sports and boxing in particular
+- I play trumpet and guitar
+- I always want to learn new things
 - <details>
   <summary>Contact me</summary>
   <img alt="Discord" width="16px" style="display: inline; margin-right: 10px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" /> <a href="https://discordapp.com/users/198852763663335424/">kairos9000#4570</a>
