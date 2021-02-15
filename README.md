@@ -17,7 +17,7 @@
 <img align="left" alt="Python" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&title_color=fafafa&bg_color=24292e&text_color=000000")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&title_color=fafafa&bg_color=24292e&text_color=ffffff")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 
