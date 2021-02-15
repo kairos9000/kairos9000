@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000)](https://github.com/kairos9000/github-readme-stats)
 
-## Tools
+## Toolss
 
 <img align="left" alt="Word" width="26px" style="margin-right: 10px" src="https://www.cvhelpdesk.nl/wp-content/uploads/2017/09/microsoft-word-on-the-app-store-how-to-create-a-logo-in-word.jpg" />
 <img align="left" alt="Excel" width="26px" style="margin-right: 10px" src="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Image226.png/revision/latest/scale-to-width-down/185?cb=20120717235902" />
