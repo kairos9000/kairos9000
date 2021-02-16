@@ -5,11 +5,12 @@
 - I love sports and boxing in particular
 - I play trumpet and guitar
 - I always want to learn new things
-- <details>
-  <summary>Contact me</summary>
-  <img alt="Discord" width="16px" style="display: inline; margin-right: 10px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" /> <a href="https://discordapp.com/users/198852763663335424/">kairos9000#4570</a>
-</details>
+
   
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages
 
 <img align="left" alt="C" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
@@ -19,8 +20,6 @@
 <img align="left" alt="JavaScript" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </br></br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 
