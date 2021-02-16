@@ -30,12 +30,20 @@ src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-1
 
 ## Tools
 
-<img align="left" alt="Word" width="26px" style="margin-right: 10px" src="https://www.cvhelpdesk.nl/wp-content/uploads/2017/09/microsoft-word-on-the-app-store-how-to-create-a-logo-in-word.jpg" />
-<img align="left" alt="Excel" width="26px" style="margin-right: 10px" src="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Image226.png/revision/latest/scale-to-width-down/185?cb=20120717235902" />
-<img align="left" alt="Visual Studio Code" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Arduino" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/arduino/arduino.png" />
+<img align="left" alt="Word" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072050-b58fb000-7066-11eb-9e48-ed233b1ff650.png />
+<img align="left" alt="Excel" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072085-c0e2db80-7066-11eb-9263-1ead8e0bf225.png />
+<img align="left" alt="Powerpoint" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072131-cdffca80-7066-11eb-8746-68db167b1495.png />
+<img align="left" alt="Visual Studio Code" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072205-e1129a80-7066-11eb-8446-31fde6d6996b.png />
+<img align="left" alt="Node.js" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072524-4bc3d600-7067-11eb-8dd9-85f65c0f2f0d.png />
+<img align="left" alt="GitHub" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072236-ee2f8980-7066-11eb-8452-30244d9b6fab.png />
+<img align="left" alt="Arduino" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072276-fc7da580-7066-11eb-87a1-91ede0d25759.png />
 </br></br>
 
 ## Frameworks
