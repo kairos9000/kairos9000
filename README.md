@@ -9,10 +9,6 @@
   
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <img align="left" alt="C" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108068673-aeff3980-7062-11eb-85b6-da664ef8f694.png />
 <img align="left" alt="CPP" width="26px" style="margin-right: 10px" 
@@ -28,6 +24,8 @@ src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-1
 <img align="left" alt="Latex" style="margin-right: 10px" width="26px" 
 src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
 </br></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 
