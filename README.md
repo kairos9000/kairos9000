@@ -48,5 +48,9 @@ src=https://user-images.githubusercontent.com/64527112/108072276-fc7da580-7066-1
 
 ## Frameworks
 
-<img align="left" alt="D3" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" />
-<img align="left" alt="P5js" width="26px" style="margin-right: 10px" src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" />
+<img align="left" alt="D3" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072811-a4936e80-7067-11eb-969f-8322fae47315.png />
+<img align="left" alt="P5js" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072849-b248f400-7067-11eb-866c-eb76323785b1.png />
+<img align="left" alt="Processing" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108072939-cc82d200-7067-11eb-9f02-305eb47ee9ca.png />
