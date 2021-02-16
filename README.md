@@ -13,12 +13,20 @@
 
 
 
-<img align="left" alt="C" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="CPP" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108068673-aeff3980-7062-11eb-85b6-da664ef8f694.png />
+<img align="left" alt="CPP" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108068734-c3433680-7062-11eb-86bc-e65119001594.png />
+<img align="left" alt="HTML5" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108068788-d6560680-7062-11eb-8258-7c995e872a1a.png />
+<img align="left" alt="CSS3" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108068828-e40b8c00-7062-11eb-8927-7300d7755af8.png />
+<img align="left" alt="JavaScript" style="margin-right: 10px" width="26px" 
+src=https://user-images.githubusercontent.com/64527112/108068864-ef5eb780-7062-11eb-984c-8e2aa2c7ab32.png />
+<img align="left" alt="Python" style="margin-right: 10px" width="26px" 
+src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-11eb-9db2-689fd5ca14d0.png />
+<img align="left" alt="Latex" style="margin-right: 10px" width="26px" 
+src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
 </br></br>
 
 ## Tools
