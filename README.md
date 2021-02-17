@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
  
 
-## Languages(sorted from favorite to least favorite
+## Languages(sorted from favorite to least favorite)
 <div></div>
 <ol>
 <li>
