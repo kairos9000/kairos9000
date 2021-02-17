@@ -20,7 +20,7 @@
   
 ## Languages
 
-<img alt="C" width="30px" style="margin-left: 100px" 
+<img display="block" alt="C" width="30px" style="margin-left: 100px" 
 src=https://user-images.githubusercontent.com/64527112/108068673-aeff3980-7062-11eb-85b6-da664ef8f694.png />
 <img align="left" alt="CPP" width="30px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108068734-c3433680-7062-11eb-86bc-e65119001594.png />
