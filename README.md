@@ -38,12 +38,15 @@ src=https://user-images.githubusercontent.com/64527112/108072085-c0e2db80-7066-1
 src=https://user-images.githubusercontent.com/64527112/108072131-cdffca80-7066-11eb-8746-68db167b1495.png />
 <img align="left" alt="Visual Studio Code" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072205-e1129a80-7066-11eb-8446-31fde6d6996b.png />
+<img align="left" alt="Visual Studio 2019" width="26px" style="margin-right: 10px" 
+src=https://user-images.githubusercontent.com/64527112/108202603-ab7eb780-7121-11eb-9e85-0d502ba0d92a.png />
 <img align="left" alt="Node.js" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072524-4bc3d600-7067-11eb-8dd9-85f65c0f2f0d.png />
 <img align="left" alt="GitHub" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072236-ee2f8980-7066-11eb-8452-30244d9b6fab.png />
 <img align="left" alt="Arduino" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072276-fc7da580-7066-11eb-87a1-91ede0d25759.png />
+
 </br></br>
 
 ## Frameworks
