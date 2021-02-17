@@ -36,7 +36,7 @@ src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-1
 <img alt="Latex" style="margin-right: 10px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
 
-
+<br><br>
 
 ## Tools I use
 
@@ -57,7 +57,7 @@ src=https://user-images.githubusercontent.com/64527112/108072236-ee2f8980-7066-1
 <img align="left" alt="Arduino" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072276-fc7da580-7066-11eb-87a1-91ede0d25759.png />
 
-
+<br><br>
 
 ## Frameworks I worked or currently work with
 
@@ -67,3 +67,4 @@ src=https://user-images.githubusercontent.com/64527112/108072811-a4936e80-7067-1
 src=https://user-images.githubusercontent.com/64527112/108072849-b248f400-7067-11eb-866c-eb76323785b1.png />
 <img align="left" alt="Processing" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072939-cc82d200-7067-11eb-9f02-305eb47ee9ca.png />
+<br><br>
