@@ -19,20 +19,21 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
   
 ## Languages
-
+<div></div>
 <img display="block" alt="C" width="30px" style="margin-left: 100px" 
 src=https://user-images.githubusercontent.com/64527112/108068673-aeff3980-7062-11eb-85b6-da664ef8f694.png />
+<br><br>
 <img alt="CPP" width="30px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108068734-c3433680-7062-11eb-86bc-e65119001594.png />
-<img align="left" alt="HTML5" width="30px" style="margin-right: 10px" 
+<img alt="HTML5" width="30px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108068788-d6560680-7062-11eb-8258-7c995e872a1a.png />
-<img align="left" alt="CSS3" width="30px" style="margin-right: 10px" 
+<img alt="CSS3" width="30px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108068828-e40b8c00-7062-11eb-8927-7300d7755af8.png />
-<img align="left" alt="JavaScript" style="margin-right: 10px" width="30px" 
+<img alt="JavaScript" style="margin-right: 10px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068864-ef5eb780-7062-11eb-984c-8e2aa2c7ab32.png />
-<img align="left" alt="Python" style="margin-right: 10px" width="30px" 
+<img alt="Python" style="margin-right: 10px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-11eb-9db2-689fd5ca14d0.png />
-<img align="left" alt="Latex" style="margin-right: 10px" width="30px" 
+<img alt="Latex" style="margin-right: 10px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
 </br></br>
 
