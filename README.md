@@ -9,7 +9,13 @@
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos9000&show_icons=true&theme=radical)
+
+## Current Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
   
 ## Languages
 
