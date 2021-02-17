@@ -1,4 +1,4 @@
-### Hi there, I'm Philip 👋
+# Hi there, I'm Philip 👋
 
 ## About me
 - I´m currently studying media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
