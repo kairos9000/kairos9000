@@ -20,7 +20,7 @@
 
 ## Languages
 <div></div>
-<ul>
+<ol>
 <li>
  <img alt="C" width="30px" style="margin-left: 100px" 
 src=https://user-images.githubusercontent.com/64527112/108068673-aeff3980-7062-11eb-85b6-da664ef8f694.png />
@@ -49,7 +49,7 @@ src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-1
 <img alt="Latex" style="margin-right: 10px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
   </li>
-</ul>
+</ol>
 <br><br>
 
 ## Tools
