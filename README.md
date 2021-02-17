@@ -6,7 +6,7 @@
 - I always want to learn new things
 - Website: http://kairos9000.github.io/Studienarbeit
 
-<br />
+<br>
 
 
 ## Statistics
@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos9000&show_icons=true&theme=radical)
 
-
+<br>
 ## Current Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
