@@ -18,7 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
  
-<div>
+
 ## Languages
 <div></div>
 <img alt="C" width="30px" style="margin-left: 100px" 
@@ -38,7 +38,6 @@ src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-1
 
 </br></br>
 
-</div>
 
 
 ## Tools
