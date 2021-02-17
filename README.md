@@ -55,9 +55,9 @@ src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-1
 </ol>
 
 
-## Tools
+## Tools and Frameworks
 
-
+### Tools
 <img align="left" alt="Visual Studio Code" width="30px"  
 src=https://user-images.githubusercontent.com/64527112/108072205-e1129a80-7066-11eb-8446-31fde6d6996b.png />
 <img align="left" alt="Visual Studio 2019" width="30px"
@@ -77,7 +77,9 @@ src=https://user-images.githubusercontent.com/64527112/108072131-cdffca80-7066-1
 
 <br><br>
 
-## Frameworks
+
+
+### Frameworks
 
 <img align="left" alt="D3" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108072811-a4936e80-7067-11eb-969f-8322fae47315.png />
@@ -86,3 +88,5 @@ src=https://user-images.githubusercontent.com/64527112/108072849-b248f400-7067-1
 <img align="left" alt="Processing" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108072939-cc82d200-7067-11eb-9f02-305eb47ee9ca.png />
 <br><br>
+
+
