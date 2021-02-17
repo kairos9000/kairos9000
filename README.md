@@ -1,3 +1,12 @@
+<head>
+  <style>
+  #languagesDiv{
+  display: flex;
+  flex-direction: column;
+  }
+ </style>
+</head>
+
 ### Hi there, I'm Philip 👋
 
 # About me
@@ -37,12 +46,7 @@ src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-1
 </div>
 </br></br>
 
-<style>
-  #languagesDiv{
-  display: flex;
-  flex-direction: column;
-  }
- </style>
+
 
 
 ## Tools
