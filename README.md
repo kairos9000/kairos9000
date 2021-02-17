@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
  
 
-<font size="4"><b>Languages</b></font>
+## Languages I code with
 <div></div>
 <img alt="C" width="30px" style="margin-left: 100px" 
 src=https://user-images.githubusercontent.com/64527112/108068673-aeff3980-7062-11eb-85b6-da664ef8f694.png />
@@ -38,7 +38,7 @@ src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-1
 
 
 
-Tools
+## Tools I use
 
 <img align="left" alt="Word" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072050-b58fb000-7066-11eb-9e48-ed233b1ff650.png />
@@ -59,7 +59,7 @@ src=https://user-images.githubusercontent.com/64527112/108072276-fc7da580-7066-1
 
 
 
-Frameworks
+## Frameworks I worked or currently work with
 
 <img align="left" alt="D3" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072811-a4936e80-7067-11eb-969f-8322fae47315.png />
