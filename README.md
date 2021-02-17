@@ -6,6 +6,10 @@
 - I play trumpet and guitar
 - I always want to learn new things
 
+
+## Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Languages
 
@@ -25,8 +29,6 @@ src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-1
 src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
 </br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&hide=jupyternotebooks,xslt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</br></br>
 
 ## Tools
 
