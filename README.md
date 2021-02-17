@@ -24,6 +24,8 @@
  
 <br>
 
+---
+
 ## Languages (sorted from favorite to least favorite)
 <div></div>
 <ol>
