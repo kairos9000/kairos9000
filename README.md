@@ -31,7 +31,7 @@ src=https://user-images.githubusercontent.com/64527112/108068788-d6560680-7062-1
 src=https://user-images.githubusercontent.com/64527112/108068864-ef5eb780-7062-11eb-984c-8e2aa2c7ab32.png />
  </li>
  <li>
-<img alt="Python" style="padding: 30px" width="30px" 
+<img alt="Python" style="margin-left: 30px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-11eb-9db2-689fd5ca14d0.png />
   </li>
  <li>
