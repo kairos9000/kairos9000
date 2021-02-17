@@ -36,11 +36,9 @@ src=https://user-images.githubusercontent.com/64527112/108068895-fe456a00-7062-1
 <img alt="Latex" style="margin-right: 10px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068932-0bfaef80-7063-11eb-9581-446b31a76c91.png />
 
-</br></br>
 
 
-
-## Tools
+Tools
 
 <img align="left" alt="Word" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072050-b58fb000-7066-11eb-9e48-ed233b1ff650.png />
@@ -59,9 +57,9 @@ src=https://user-images.githubusercontent.com/64527112/108072236-ee2f8980-7066-1
 <img align="left" alt="Arduino" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072276-fc7da580-7066-11eb-87a1-91ede0d25759.png />
 
-</br></br>
 
-## Frameworks
+
+Frameworks
 
 <img align="left" alt="D3" width="26px" style="margin-right: 10px" 
 src=https://user-images.githubusercontent.com/64527112/108072811-a4936e80-7067-11eb-969f-8322fae47315.png />
