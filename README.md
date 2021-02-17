@@ -18,16 +18,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kairos9000&repo=BlackjackGame&theme=radical)](https://github.com/kairos9000/BlackjackGame)
  
 
-## Languages(sorted from favorite to least favorite)
+## Languages (sorted from favorite to least favorite)
 <div></div>
 <ol>
 <li>
 
- <img alt="CSS3" width="30px" style="margin-left: 10px" 
+ <img alt="CSS3" width="30px" style="margin-left: 20px" 
 src=https://user-images.githubusercontent.com/64527112/108068828-e40b8c00-7062-11eb-8927-7300d7755af8.png />
- <img alt="HTML5" width="30px" style="margin-left: 10px" 
+ <img alt="HTML5" width="30px" style="margin-left: 20px" 
 src=https://user-images.githubusercontent.com/64527112/108068788-d6560680-7062-11eb-8258-7c995e872a1a.png />
- <img alt="JavaScript" style="margin-left: 10px" width="30px" 
+ <img alt="JavaScript" style="margin-left: 20px" width="30px" 
 src=https://user-images.githubusercontent.com/64527112/108068864-ef5eb780-7062-11eb-984c-8e2aa2c7ab32.png />
  </li>
  <li>
