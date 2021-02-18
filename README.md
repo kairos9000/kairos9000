@@ -1,6 +1,6 @@
 # Hi there, I'm Philip 👋
 
-- I´m currently studying media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
+- I study media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
 - I love sports and boxing in particular
 - I play trumpet and guitar
 - I always want to learn new things
