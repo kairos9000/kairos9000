@@ -5,7 +5,7 @@
 - I play trumpet and guitar
 - I always want to learn new things
 - Website: http://kairos9000.github.io/Studienarbeit
-- Contact: <img alt="Discord" width="30px" src=https://user-images.githubusercontent.com/64527112/108357945-65435a00-71ee-11eb-8dfd-1a6fdb751e1c.png /> <a href="https://discordapp.com/users/280730160167256065/">kairos9000#4570</a>
+- Contact: <img alt="Discord" width="25px" src=https://user-images.githubusercontent.com/64527112/108357945-65435a00-71ee-11eb-8dfd-1a6fdb751e1c.png /> <a href="https://discordapp.com/users/280730160167256065/">kairos9000#4570</a>
 
 <br>
 
