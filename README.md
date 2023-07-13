@@ -10,7 +10,7 @@
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000)](https://github.com/kairos9000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos9000&theme=dracula)](https://github.com/kairos9000/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos9000&show_icons=true&theme=radical)
 
