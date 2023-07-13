@@ -1,9 +1,7 @@
 # Hi there, I'm Philip 👋
 
-- I study **Computer Science and Media** at [OTH-AW](https://www.oth-aw.de) in Amberg
-- I love **sports** and **boxing** in particular
-- I play **trumpet** and **guitar**
-- Website: http://kairos9000.github.io/Studienarbeit
+- I studied **Computer Science and Media** at [OTH-AW](https://www.oth-aw.de) in Amberg
+- Website: https://pbartmann.de/
 - Contact: <img alt="Discord" width="25px" src=https://user-images.githubusercontent.com/64527112/108357945-65435a00-71ee-11eb-8dfd-1a6fdb751e1c.png /> <a href="https://discordapp.com/users/280730160167256065/">kairos9000#4570</a>
 
 <br>
@@ -26,7 +24,7 @@
 
 ---
 
-## Languages (sorted from favorite to least favorite)
+## Languages
 
 1. <img alt="CSS3" width="30px"
 src=https://user-images.githubusercontent.com/64527112/108068828-e40b8c00-7062-11eb-8927-7300d7755af8.png />
